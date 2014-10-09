@@ -20,3 +20,6 @@ Or play alone
 ![alt tag](https://raw.githubusercontent.com/edlf/flatout2-launcher/master/Screenshots/singleplayer.png)
 
 Get it on the releases tab.
+
+
+The Flatout 2 logo is property of Bugbear Entertainment Ltd.
